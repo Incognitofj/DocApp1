@@ -116,7 +116,6 @@ btn4=tk.Button(root, text="Andrologist",bg="#0BECFD",fg="#000000",width=20,font=
 
 btn5=tk.Button(root, text="Ophthalmologist",bg="#0BECFD",fg="#000000",width=20,font=("Calibri",12,BOLD),padx=1,pady=1,underline=(0),command=btn5_click)
 
-# btn2.grid(row=2,column=0)
 btn1.grid(row=1,column=0,padx=5, pady=5) #ipadx=6, ipady=6,
 btn2.grid(row=2,column=0,padx=5, pady=5)
 btn3.grid(row=3,column=0,padx=5, pady=5)
